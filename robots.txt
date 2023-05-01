@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Kriskorekek.github.io/sitemap.xml
